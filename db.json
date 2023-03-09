@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "titolo": "Songs in the key of life",
+      "url": "https://www.youtube.com/watch?v=8oB4-G1qkWU",
+      "like": 15976
+    },
+    {
+      "id": 2,
+      "titolo": "Kind of Blue",
+      "url": "https://classroom.google.com/c/NTYyMjQwMTMzOTE4/a/NTk2MjM3ODc5MTE2/details",
+      "like": 195339    
+    },
+    {
+      "id": 3,
+      "titolo": "Synchronicity",
+      "url": "https://github.com/PaoloCarugati/dischi/blob/main/db.json",
+      "like": 1944383    
+    }
+  ]
+  }
